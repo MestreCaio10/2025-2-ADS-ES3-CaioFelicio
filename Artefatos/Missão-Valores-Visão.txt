@@ -1,1 +1,15 @@
+*Seguimento*
+O sistema se insere no segmento de logística e gestão de armazéns, com foco no setor de café, que envolve produtores, cooperativas, exportadores e distribuidores. O software organiza a movimentação de big bags, otimiza operações de carga e descarga e permite rastreabilidade precisa via RFID
 
+*Missão*
+Oferecer uma solução tecnológica eficiente e confiável para a gestão de armazéns de café garantindo rastreabilidade, controle de estoque e otimização de processos, contribuindo para a qualidade do produto e a produtividade dos operadores
+
+*Visão*
+Ser reconhecido como o principal sistema de gestão e rastreabilidade de armazéns de café no Brasil, expandindo para outras commodities, com tecnológia inovadora, prática e acessível para todos os tipos de produtores e distribuidores
+
+*Valores*
+ -Inovação: desenvolvimento contínuo de soluções tecnológicas práticas.
+ -Confiabilidade: garantir que os dados de estoque e movimentação sejam precisos.
+ -Sustentabilidade: contribuir para processos eficientes que minimizam perdas.
+ -Foco no usuário: facilitar o trabalho de operadore, supervisores e gestores.
+ -Transparência: rastreabilidade completa das operações e histórico de movimentações.
